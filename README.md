@@ -1,4 +1,4 @@
-# wheather_app
+# weather forecast web page
 
 ## Description
 
