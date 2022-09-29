@@ -96,7 +96,7 @@ input {
 /* SECTION #2
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .city-section {
-  margin: 70px 0 20px;
+  padding: 2rem;
 }
 
 .city-section .cities {
@@ -128,10 +128,6 @@ input {
     height: 30px;
   }
 
-  .top-banner .input-city button:active {
-    transform: scale(1.1);
-  }
-
   .top-banner .input-city button {
     font-size: 1rem;
     padding: 7px;
@@ -145,8 +141,9 @@ input {
   /* SECTION #2
   –––––––––––––––––––––––––––––––––––––––––––––––––– */
   .city-section {
-    margin: 40px;
+    padding: 1rem;
   }
+
   .card {
     width: 13rem;
   }
@@ -157,5 +154,30 @@ input {
   #logo {
     width: 30px;
     height: 30px;
+  }
+}
+
+@media screen and (max-width: 380px) {
+  .heading {
+    font-size: 1.5rem;
+    letter-spacing: 0.01em;
+  }
+
+  .top-banner .input-city input {
+    font-size: 1rem;
+    height: 20px;
+  }
+
+  .top-banner .input-city button {
+    font-size: 1rem;
+    padding: 5px;
+    margin-left: 5px;
+  }
+
+  .top-banner .input-city .msg {
+    font-size: 1rem;
+  }
+  .card {
+    width: 11rem;
   }
 }
