@@ -6,7 +6,7 @@ Our goal in this project is to create weather forecast web page using JavaScript
 
 ## Outcome
 
-![Project 029](./wheather_app.gif)
+![Project 029](./weather_app.gif)
 
 ## Objective
 
