@@ -63,7 +63,7 @@ const resultWeather = (data) => {
               <h6 class="card-subtitle mb-2 text-muted">${name}<sup class="bg-warning text-light rounded-1">${country}</sup>
               </h6>
               <h5 class="card-title">${Math.round(temp)}<sup>&deg</sup>C</h5>
-              <img src="../icons/${weather[0].icon}.png" alt="">
+              <img src="./css/icons/${weather[0].icon}.png" alt="">
               <p class="card-text">${weather[0].description}</p>
             </div>
           </div>`;
