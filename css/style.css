@@ -55,7 +55,7 @@ input {
   display: flex;
   align-items: center;
   justify-content: center;
-  margin-top: 0.5rem;
+  margin-top: 1rem;
 }
 
 .top-banner .input-city input {
@@ -175,7 +175,7 @@ input {
   }
 
   .top-banner .input-city .msg {
-    font-size: 1rem;
+    font-size: 0.7rem;
   }
   .card {
     width: 11rem;
