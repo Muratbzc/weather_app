@@ -18,4 +18,4 @@ Our goal in this project is to create weather forecast web page using JavaScript
     
 
 
-<button><a href="https://muratbzc.github.io/wheather_app/">Go To Web Site</a></button>
+<button><a href="https://muratbzc.github.io/weather_app/">Go To Web Site</a></button>
